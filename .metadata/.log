@@ -1,0 +1,869 @@
+!SESSION 2017-10-21 14:55:59.244 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data D:\springboot -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-10-21 14:56:11.791
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\wy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 14:57:33.014
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 14:57:33.026
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 14:58:22.593
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 14:58:22.598
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 14:58:30.985
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 14:58:30.988
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 14:58:47.090
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 14:58:47.095
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:00:06.571
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:00:06.575
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:02:18.289
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:02:18.293
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:02:44.796
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:2.3.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:02:44.801
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:2.3.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:02:45.449
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:02:45.453
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:02:52.689
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:2.3.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:02:52.878
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:2.3.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:02:52.928
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:02:52.933
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:11.683
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:2.3.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:11.868
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:2.3.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:11.912
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:11.915
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-10-21 15:03:16.987
+!MESSAGE Could not resolve artifact org.springframework:maven-compiler-plugin:maven-plugin:2.3.2
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:20.646
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:2.3.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:21.457
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:2.3.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:21.525
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:21.529
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:25.872
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:2.3.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:26.096
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:2.3.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:26.157
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:26.162
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-10-21 15:03:42.388
+!MESSAGE Could not resolve artifact org.springframework:maven-compiler-plugin:pom:2.3.2
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:47.515
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:2.3.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:47.708
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:2.3.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:47.761
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:03:47.764
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-10-21 15:21:04.377
+!MESSAGE failed to load maven project for org.eclipse.ui.part.FileEditorInput(/springboot/pom.xml)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-10-21 15:21:04.513
+!MESSAGE Could not read pom.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:22:03.312
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:4.1.6.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:22:03.316
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:4.1.6.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:22:03.912
+!MESSAGE The POM for org.springframework:maven-compiler-plugin:jar:4.1.6.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:22:03.988
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:22:03.991
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:22:29.167
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:22:29.171
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:22:30.460
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:22:30.463
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:23:00.098
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:23:00.101
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:24:36.316
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:24:36.319
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:26:08.166
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:26:08.169
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.603
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.604
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.605
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.605
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.606
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.606
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.607
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.607
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.608
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.608
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.609
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.609
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.610
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\access-bridge-64.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\access-bridge-64.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.610
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\access-bridge-64.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.611
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\cldrdata.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\cldrdata.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.611
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\cldrdata.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.612
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\dnsns.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\dnsns.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.612
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\dnsns.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.613
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\jaccess.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\jaccess.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.613
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\jaccess.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.614
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\jfxrt.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\jfxrt.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.614
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\jfxrt.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.615
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\localedata.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\localedata.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.615
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\localedata.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.616
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\nashorn.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\nashorn.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.617
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\nashorn.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.618
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunec.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunec.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.618
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunec.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.619
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunjce_provider.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunjce_provider.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.620
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunjce_provider.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.621
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunmscapi.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunmscapi.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.621
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunmscapi.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.622
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunpkcs11.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunpkcs11.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.623
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunpkcs11.jar does not exist
+
+!ENTRY org.eclipse.jpt.common.core 4 0 2017-10-21 15:26:23.624
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\zipfs.jar does not exist
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\zipfs.jar does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getUnderlyingResource(JarPackageFragmentRoot.java:207)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder_(PackageFragmentRootTools.java:82)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools.isFolder(PackageFragmentRootTools.java:74)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:65)
+	at org.eclipse.jpt.common.core.internal.utility.PackageFragmentRootTools$IsFolder.evaluate(PackageFragmentRootTools.java:1)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.loadNext(FilteringIterator.java:80)
+	at org.eclipse.jpt.common.utility.internal.iterator.FilteringIterator.next(FilteringIterator.java:68)
+	at org.eclipse.jpt.common.utility.internal.iterator.TransformationIterator.next(TransformationIterator.java:54)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath_(SimpleJavaResourceLocator.java:144)
+	at org.eclipse.jpt.common.core.internal.resource.SimpleJavaResourceLocator.getWorkspacePath(SimpleJavaResourceLocator.java:135)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.MavenResourceLocator.getWorkspacePath(MavenResourceLocator.java:137)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.getPersistenceXml(JpaProjectConfigurator.java:119)
+	at org.eclipse.m2e.wtp.jpa.internal.configurators.JpaProjectConfigurator.configure(JpaProjectConfigurator.java:92)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:477)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:470)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:408)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-10-21 15:26:23.624
+!MESSAGE C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\zipfs.jar does not exist
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:26:23.994
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-21 15:26:23.997
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
